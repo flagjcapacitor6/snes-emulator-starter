@@ -1,3 +1,4 @@
 # Daily Notes
 Draft QA strategy
 Correctly invalidate session on password change
+Summarize deployment tests
